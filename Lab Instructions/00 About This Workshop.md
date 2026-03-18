@@ -13,7 +13,7 @@ maxLevel: 3
 
 # Welcome
 
-Thank you for signing up for the WWHF Deadwood 2025 Edition of *Keeping Things Local: How to Set Up and Customize Your Own LLM*. I'm your host, Bronwen Aker, aka Corvus, aka The Cybrarian. 
+Thank you for signing up for *Keeping Things Local: How to Set Up and Customize Your Own LLM*. I'm your host, Bronwen Aker, aka Corvus, aka The Cybrarian. 
 
 The world of artificial intelligence (AI) is complex and confusing, especially because there is so much hype. There is also a lot of good information available, through YouTube, through online courses, and through events like this, but it can still feel overwhelming when you're starting to learn about how AI works and what its limitations are. This workshop covers a lot of the fundamentals, and introduces you to some of the easier, yet still very effective, ways that you can customize an existing model to suit your own needs. 
 
@@ -37,7 +37,7 @@ I've broken the material down into several different lessons, starting with setu
 * VMware Virtual Machine (Workstation or Fusion)
 * Ollama (pre-installed)
 	* Selected LLM models
-	  The virtual machines are already loaded with Olama and fairly small sized LLM models to ensure that they are usable, even on a laptop that doesn't have the best system resources. GPUs are really nice, but they are not absolutely necessary when it comes to using LLM models that are already configured. (There's also this little problem about them being gigabytes large per file, and we are already stressing the Wi-fi here in Deadwood. Preloading the LLM models avoids all that trouble.)
+	  The virtual machines are already loaded with Ollama and fairly small sized LLM models to ensure that they are usable, even on a laptop that doesn't have the best system resources. GPUs are really nice, but they are not absolutely necessary when it comes to using LLM models that are already configured. (There's also this little problem about them being gigabytes large per file, and we are already stressing the Wi-fi here in Deadwood. Preloading the LLM models avoids all that trouble.)
 * Msty (pre-installed)
   Msty is used to compare the interactions of more than one LLM at a time. This can be handy when fine-tuning a customization. 
 
